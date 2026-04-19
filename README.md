@@ -36,3 +36,5 @@ removenth.java : https://github.com/keertimagar2006-maker/java1a/blob/73be630aea
 sortcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/4edfd919a4b129f418c26a4c9e82d6da20ee74f0/sortcolors.png
 
 sublist.java : https://github.com/keertimagar2006-maker/java1a/blob/07db1a7dce3e13709622382c3b3629145d51dd68/sublist.png
+
+swing1.java op :https://github.com/keertimagar2006-maker/java1a/blob/df761ea739a99e28263cd7f3932eccabbf432593/swing1.png
