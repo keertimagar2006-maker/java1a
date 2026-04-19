@@ -26,3 +26,6 @@ p3.java op : https://github.com/keertimagar2006-maker/java1a/blob/5798e4a6bf012d
 p4.java op : https://github.com/keertimagar2006-maker/java1a/blob/0affc7219901ffacc47d1ffeffcbea7758e1484d/p4.png
 
 p5.java op : https://github.com/keertimagar2006-maker/java1a/blob/8f2344a82ddd4f67e2aa3250eb7c126f0c7e81af/p5.png
+
+p6.java op : https://github.com/keertimagar2006-maker/java1a/blob/e7541841bb1f8c0f192b4f4ad543c48da11c5364/p6.png
+
