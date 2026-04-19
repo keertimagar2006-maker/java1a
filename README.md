@@ -50,3 +50,5 @@ swing6.java op: https://github.com/keertimagar2006-maker/java1a/blob/45fbfab0dc7
 swing7.java op :https://github.com/keertimagar2006-maker/java1a/blob/6d99fc271592ffb5879e53187491700488e50942/swing7.png
 
 10a.java op : https://github.com/keertimagar2006-maker/java1a/blob/249337f36f7a11ad567e6ffcb998813abf389e59/10a.png
+
+10b.java op : https://github.com/keertimagar2006-maker/java1a/blob/9c78ca64047f13ee7187c21009347c717e45c4b8/10b.png
