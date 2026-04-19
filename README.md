@@ -20,3 +20,5 @@ l5.java op : https://github.com/keertimagar2006-maker/java1a/blob/a63565d4c01c19
 p1.java op : https://github.com/keertimagar2006-maker/java1a/blob/35350077b682e0a378504a06e9412dc80197ba25/p1.png
 
 p2.java op : https://github.com/keertimagar2006-maker/java1a/blob/985f0df0c1b827353580e9c525279c0b60176037/p2.png
+
+p3.java op : https://github.com/keertimagar2006-maker/java1a/blob/5798e4a6bf012d025613c4d6dc563f281522b0be/p3.png
