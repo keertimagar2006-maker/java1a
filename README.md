@@ -30,4 +30,7 @@ p5.java op : https://github.com/keertimagar2006-maker/java1a/blob/8f2344a82ddd4f
 p6.java op : https://github.com/keertimagar2006-maker/java1a/blob/e7541841bb1f8c0f192b4f4ad543c48da11c5364/p6.png
 
 searchcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/cd0c2e0e18a880d08d9d228f2422bbfca199d639/searchcolor.png
+
 removenth.java : https://github.com/keertimagar2006-maker/java1a/blob/73be630aeaef7ca2c6f447e9d5df1c76e5e577e5/RemoveNthe.png
+
+sortcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/4edfd919a4b129f418c26a4c9e82d6da20ee74f0/sortcolors.png
