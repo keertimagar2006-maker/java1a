@@ -71,3 +71,5 @@ j2.java op : https://github.com/keertimagar2006-maker/java1a/blob/36cd4b678b6564
 s1.java op : https://github.com/keertimagar2006-maker/java1a/blob/07d30d111c50baa534310ef50c4ad613120631d4/s1.png
 
 s2.java op : https://github.com/keertimagar2006-maker/java1a/blob/0310086cd9301db8c8bbb48e5552a5daf7732f18/s2.png
+
+s3.java op : https://github.com/keertimagar2006-maker/java1a/blob/358bc54ca2d007055802f3b3b22a87f81cd585d7/s3.png
