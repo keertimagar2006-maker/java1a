@@ -38,3 +38,5 @@ sortcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/4edfd919a4
 sublist.java : https://github.com/keertimagar2006-maker/java1a/blob/07db1a7dce3e13709622382c3b3629145d51dd68/sublist.png
 
 swing1.java op :https://github.com/keertimagar2006-maker/java1a/blob/df761ea739a99e28263cd7f3932eccabbf432593/swing1.png
+
+swing2.java op: https://github.com/keertimagar2006-maker/java1a/blob/89b7c77f02cef17736209c4a28c8fe53068f0ad8/swing2.png
