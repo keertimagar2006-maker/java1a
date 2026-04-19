@@ -61,3 +61,5 @@ swing7.java op :https://github.com/keertimagar2006-maker/java1a/blob/6d99fc27159
 9a.java op : https://github.com/keertimagar2006-maker/java1a/blob/e408662aa0e81a99b9d4155e2bce5da5a0a69d30/9a.png
 
 9b.java op : https://github.com/keertimagar2006-maker/java1a/blob/6da48a7bcc536145961dbd58e430cae4540f11eb/9b.png
+
+9c.java op : https://github.com/keertimagar2006-maker/java1a/blob/2e9ba600f6cf1165edf9dd08bcad9b581df73b68/9c.png
