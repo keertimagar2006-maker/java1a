@@ -46,3 +46,5 @@ swing4.java op: https://github.com/keertimagar2006-maker/java1a/blob/7078db31d8e
 swing5.java op: https://github.com/keertimagar2006-maker/java1a/blob/d5dc0bf83684d87b7971f3b0440600d72d1078dd/swing5.png
 
 swing6.java op: https://github.com/keertimagar2006-maker/java1a/blob/45fbfab0dc73bc09be35573fdb56fde1b2eb0ff1/swing6.png
+
+swing7.java op :https://github.com/keertimagar2006-maker/java1a/blob/6d99fc271592ffb5879e53187491700488e50942/swing7.png
