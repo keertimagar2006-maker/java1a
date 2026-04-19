@@ -22,3 +22,5 @@ p1.java op : https://github.com/keertimagar2006-maker/java1a/blob/35350077b682e0
 p2.java op : https://github.com/keertimagar2006-maker/java1a/blob/985f0df0c1b827353580e9c525279c0b60176037/p2.png
 
 p3.java op : https://github.com/keertimagar2006-maker/java1a/blob/5798e4a6bf012d025613c4d6dc563f281522b0be/p3.png
+
+p4.java op : https://github.com/keertimagar2006-maker/java1a/blob/0affc7219901ffacc47d1ffeffcbea7758e1484d/p4.png
