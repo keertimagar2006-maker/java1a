@@ -8,3 +8,6 @@ l1.java op : https://github.com/keertimagar2006-maker/java1a/blob/f592c515099100
 
 
 l2.java op : https://github.com/keertimagar2006-maker/java1a/blob/a8bc681ffe4700c1acc8bfc7e0240e36f647cfca/l2.png
+
+
+l3.java op : https://github.com/keertimagar2006-maker/java1a/blob/a150539e006b66fd7e61e4a4b5b318a9b1e99f36/l3.png
