@@ -34,3 +34,5 @@ searchcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/cd0c2e0e
 removenth.java : https://github.com/keertimagar2006-maker/java1a/blob/73be630aeaef7ca2c6f447e9d5df1c76e5e577e5/RemoveNthe.png
 
 sortcolor.java : https://github.com/keertimagar2006-maker/java1a/blob/4edfd919a4b129f418c26a4c9e82d6da20ee74f0/sortcolors.png
+
+sublist.java : https://github.com/keertimagar2006-maker/java1a/blob/07db1a7dce3e13709622382c3b3629145d51dd68/sublist.png
