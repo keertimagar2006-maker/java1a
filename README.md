@@ -83,3 +83,5 @@ s3.java op : https://github.com/keertimagar2006-maker/java1a/blob/358bc54ca2d007
 12.java op:https://github.com/keertimagar2006-maker/java1a/blob/f48e11f5afb8263f1595bbf83ecf449cbf2598eb/12a.png
 
 12b.java op:https://github.com/keertimagar2006-maker/java1a/blob/16f4548a6a87b6520a9c02cfa4d97054445ea034/12b.png
+
+1a.java op : https://github.com/keertimagar2006-maker/java1a/blob/3d81f2803a30733e548d49bd7e26bb5b1cbd006f/1a.png
